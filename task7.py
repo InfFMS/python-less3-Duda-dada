@@ -8,4 +8,10 @@
 a = int(input())
 m = 1
 while a !=0:
+    if a<m: m=a
+a = int(input())
+    if
+    print ("Нет")
+print (m)
+
 
